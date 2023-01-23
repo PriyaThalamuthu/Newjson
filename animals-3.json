@@ -23,4 +23,12 @@
       "dislikes": ["basic cat food"]
     }
   }
+   {
+    "name": "Tux",
+    "species" : "cat",
+    "foods": {
+      "likes": ["fancy dishes"],
+      "dislikes": ["basic cat food"]
+    }
+  }
 ]
