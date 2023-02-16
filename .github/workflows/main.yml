@@ -1,4 +1,4 @@
-name: daily-report
+name: send mail
 
 on:
   # schedule:
